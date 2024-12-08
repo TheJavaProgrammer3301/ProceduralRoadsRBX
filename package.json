@@ -1,0 +1,22 @@
+{
+  "name": "proceduralroadsrbx",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000r\u0000o\u0000c\u0000e\u0000d\u0000u\u0000r\u0000a\u0000l\u0000R\u0000o\u0000a\u0000d\u0000s\u0000R\u0000B\u0000X\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "build": "rbxtsc",
+    "watch": "rbxtsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rbxts/compiler-types": "^3.0.0-types.0",
+    "@rbxts/types": "^1.0.813",
+    "roblox-ts": "^3.0.0",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@rbxts/object-utils": "^1.0.4"
+  }
+}
