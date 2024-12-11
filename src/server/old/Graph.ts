@@ -1,6 +1,6 @@
 import IGraph from "./GraphSystem";
 import { INode } from "./GraphSystem";
-import Intersection from "./intersections/Intersection";
+import Intersection from "../intersections/Intersection";
 import Segment from "./segments/Segment";
 
 export class Node implements INode {

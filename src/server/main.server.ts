@@ -1,4 +1,4 @@
-import Graph from "./Graph";
+import Graph from "./old/Graph";
 
 const graph = new Graph();
 
